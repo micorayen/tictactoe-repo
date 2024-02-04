@@ -15,4 +15,4 @@ Tic tac toe game on 5x5 board, support two player gameplay, so you can play agai
 
 ## Author
 
-* **Mico Rayen** - *Software Developer* - [Portfolio Website](https://micorayen.github.io/)
+* **Mico Rayen** - *Software Developer* - [Portfolio Website](https://micorayen.github.io/mar)
